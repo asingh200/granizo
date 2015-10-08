@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 	    @RequestMapping(method=RequestMethod.GET)
 	    public @ResponseBody String ello(@RequestParam(value="name", required=false, defaultValue="Stranger") String name) {
-	        return "Hello This is Granizo copyright";
+	        return "Hello  This is Granizo copyright";
 	    }
 
 }

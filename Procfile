@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/granizo0.0.1-SNAPSHOT.jar
+web: java -Dserver.port=$PORT -jar target/granizo-0.0.1-SNAPSHOT.jar
